@@ -5,7 +5,7 @@ You can use the [editor on GitHub](https://github.com/22000546/22000546.github.i
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Postings
-[post](https://22000546.github.io/post.html)
+[Post](https://22000546.github.io/post.html)
 
 ### Markdown
 
